@@ -8,6 +8,7 @@
     "@types/react": "17.0.62",
     "handsontable": "13.0.0",
     "react-scripts": "4.0.2",
+    "typescript": "^5.1.6",
     "@types/react-dom": "17.0.20",
     "@handsontable/react": "13.0.0"
   },
